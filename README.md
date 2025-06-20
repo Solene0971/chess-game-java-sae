@@ -1,2 +1,45 @@
 # chess-game-java-sae
-Ce projet est réalisé dans le cadre de la SAE R201 du BUT Informatique (IUT Villetaneuse Sorbonne Paris Nord). Il s'agit de développer en binôme une application Java capable d’arbitrer une partie d’échecs simplifiée entre deux joueurs.
+# Projet SAÉ R201 – Jeu d'Échecs en Java
+
+Ce projet a été réalisé dans le cadre de la SAÉ R201 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). Il consiste à développer une application Java permettant d'arbitrer une partie d'échecs simplifiée entre deux joueurs.
+
+## Livrables
+
+- Modélisation UML du système
+- Implémentation en Java conforme à la modélisation
+- Compte-rendu PDF des fonctionnalités
+
+## Fonctionnalités
+
+- Saisie des noms des joueurs
+- Affichage textuel de l’échiquier
+- Affichage de l’historique des coups
+- Saisie et validation des coups selon les règles du jeu (sans roque, promotion ni prise en passant)
+- Le programme ne nécessite pas d’environnement de développement (IDE) pour être exécuté.
+
+## Améliorations
+
+- - Détection automatique de la fin de partie
+- - Gestion d’une pendule de réflexion par joueur
+
+## Installation
+
+1. Cloner le dépôt :
+
+   ```bash
+   git clone https://github.com/nom-utilisateur/chess-game-java-sae.git
+   cd chess-game-java-sae
+
+2. Compiler le projet :
+
+   ```bash
+   javac src/*.java
+
+3. Lancer le jeu :
+
+   ```bash
+   java src.Main
+
+## Auteurs
+Solène Bourg - @Solene0971
+Amirtavarsini Jegathasan -

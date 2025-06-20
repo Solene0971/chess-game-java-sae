@@ -7,7 +7,7 @@ Ce projet a été réalisé dans le cadre de la SAÉ R201 du BUT Informatique (I
 
 - Fichiers .java implémentant les différents éléments d'un jeu d'échecs
 - Compte-rendu PDF contenant :
-     - Instruction de lancement
+     - Notice d'utilisation du jeu
      - Diagramme UML
      - Bilan du projet
 

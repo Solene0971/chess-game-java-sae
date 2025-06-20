@@ -10,7 +10,6 @@ Ce projet a été réalisé dans le cadre de la SAÉ R201 du BUT Informatique (I
      - Notice d'utilisation du jeu
      - Diagramme UML
      - Bilan du projet
-- Fichier .zip du code JAVA
 
 
 ## Fonctionnalités

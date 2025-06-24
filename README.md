@@ -47,5 +47,5 @@ Ce projet a été réalisé dans le cadre de la SAÉ S201 du BUT Informatique (I
 
 
 ## Auteurs
->Solène Bourg (@Solene0971)
+>Solène Bourg (@Solene0971)  
 >Amirtavarsini Jegathasan

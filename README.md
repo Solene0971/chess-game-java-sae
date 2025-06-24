@@ -1,4 +1,4 @@
-# Projet SAÉ R201 – Jeu d'Échecs en Java
+# Projet SAÉ S201 – Jeu d'Échecs en Java
 
 Ce projet a été réalisé dans le cadre de la SAÉ S201 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord). Il consiste à développer une application Java permettant d'arbitrer une partie d'échecs simplifiée entre deux joueurs.
 

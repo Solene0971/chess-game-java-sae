@@ -32,7 +32,7 @@ Ce projet a été réalisé dans le cadre de la SAÉ S201 du BUT Informatique (I
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/nom-utilisateur/chess-game-java-sae.git
+   git clone https://github.com/Solene0971/chess-game-java-sae.git
    cd chess-game-java-sae
 
 2. Compiler le projet :
